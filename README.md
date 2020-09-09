@@ -28,8 +28,7 @@ Other platforms:
   <a href="https://www.linkedin.com/in/viswambhar-reddy-yasa-2ab5051aa/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&color=0077B5&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/viswambhar-yasa"><img src="https://img.shields.io/badge/GitHub--_.svg?style=flat-square&color=181717&labelColor=181717&logo=github" alt="GitHub"></a>
   <a href="https://www.facebook.com/vishwa.HeArTtHrOb143/"><img src="https://img.shields.io/badge/Facebook-FB-blue" alt="Facebook"></a>
-  <a href="https://www.facebook.com/vishwa.HeArTtHrOb143/"><img src=" https://img.shields.io/badge/Instagram-IN-orange" alt="Instagram"></a>
- 
+  <a href="https://www.instagram.com/viswambhar.yasa/"><img src="https://img.shields.io/badge/Instagram-IN-orange" alt="Instagram"></a>
 </p>
 
 
