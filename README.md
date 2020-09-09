@@ -9,7 +9,7 @@ I'm [Viswambhar Yasa](https://github.com/viswambhar-yasa) pursuing masters in `C
 - ⚡ Fun fact: The first person to use the term `bug` was Thomas Edison - and it was a real bug!
 
 
-### Programming Languages i know :eye_speech_bubble: 
+### Programming Languages that i know :eye_speech_bubble: 
 - c++
 - Python3
 - Matlab
