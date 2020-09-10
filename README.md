@@ -1,4 +1,7 @@
-<img align="center" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/ezgif.com-video-to-gif (1).gif"/>
+
+<p align="center">
+<img src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/ezgif.com-video-to-gif (1).gif"  />
+</p>
 
 :sunglasses:<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
@@ -6,6 +9,26 @@
 
 I'm [Viswambhar Yasa](https://github.com/viswambhar-yasa) pursuing masters in `Computational Material Science` from `Technical University Freiberg`. I have work experience in `TATA` Consultancy Services (`TCS`) on Data Analyitics and Machine learning. As a software enthusiast, i want the open-source softwares to be more accessible to people. 
 
+```javascript
+const viswa = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "SuiteScript"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["selenium", "open-cv", "php"]
+    };
+   ```
 - 🔭 I’m currently working on Sterographic projection.
 - 🌱 I’m currently learning deep learning.
 - ⚡ Fun fact: The first person to use the term `bug` was Thomas Edison - and it was a real bug!
