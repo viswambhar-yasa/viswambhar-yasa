@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/header.gif" />
+<img align="right" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/giphy.gif"  width="350" height="220"/>
+
+
 
 ### HELLO, I'M VISWA ! :sunglasses: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
@@ -54,3 +56,5 @@ Other platforms:
 <a href="https://soundcloud.com/vishwambhar-yasa" title='soundcloud'>
     <img align="left" alt="viswa's soundcloud" src="https://img.icons8.com/color/32/000000/soundcloud.png" />
 </a>
+</br>
+<img align="center" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/header.gif" />
