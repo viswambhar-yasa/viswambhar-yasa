@@ -1,6 +1,6 @@
-<img align="center" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/ezgif.com-video-to-gif.gif"/>
-# Hi there!
-:sunglasses: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<img align="center" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/ezgif.com-video-to-gif (1).gif.gif"/>
+
+:sunglasses:<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <img align="right" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/giphy.gif"  width="350" height="220"/>
 
