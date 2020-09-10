@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/ezgif.com-video-to-gif (1).gif.gif"/>
+<img align="center" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/ezgif.com-video-to-gif (1).gif"/>
 
 :sunglasses:<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
