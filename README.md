@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/header.gif" />
+
 ### HELLO, I'M VISWA ! :sunglasses:
 
 <img align="right" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/giphy.gif"  width="350" height="220"/>
