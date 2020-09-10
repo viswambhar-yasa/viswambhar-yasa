@@ -12,8 +12,8 @@ I'm [Viswambhar Yasa](https://github.com/viswambhar-yasa) pursuing masters in `C
 ```javascript
 const viswa = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Python", "Matlab","Javascript", "HTML", "php"],
+    askMeAbout: ["web dev", "Machine learning", "app dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
