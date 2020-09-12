@@ -3,11 +3,15 @@
 <img src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/ezgif.com-video-to-gif (1).gif"  />
 </p>
 
-Guten Tag :sunglasses: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+Guten Tag :sunglasses: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=viswambhar-yasa.visitor-badge)
 
 <img align="right" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/code.gif"  width="350" height="220"/>
 
 I'm [Viswambhar Yasa](https://github.com/viswambhar-yasa) pursuing masters in `Computational Material Science` from `Technical University Freiberg`. I have work experience in `TATA` Consultancy Services (`TCS`) on Data Analyitics and Machine learning. As a software enthusiast, i want the open-source softwares to be more accessible to people. 
+
+- 🔭 I’m currently working on Sterographic projection.
+- 🌱 I’m currently learning deep learning.
+- ⚡ Fun fact: The first person to use the term `bug` was Thomas Edison - and it was a real bug!
 
 ```javascript
 const viswa = {
@@ -29,9 +33,6 @@ const viswa = {
         misc: ["selenium", "open-cv", "php"]
     };
    ```
-- 🔭 I’m currently working on Sterographic projection.
-- 🌱 I’m currently learning deep learning.
-- ⚡ Fun fact: The first person to use the term `bug` was Thomas Edison - and it was a real bug!
 
 
 ### Languages and Tools :eye_speech_bubble: 
