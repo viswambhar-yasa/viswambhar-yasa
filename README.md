@@ -26,9 +26,11 @@ const viswa = {
             Meshing: ["Hypermesh"]
         },
 
+    Others: {
+        databases: ["mongo", "MySql", "sqlite"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: [ "open-cv", "php"]
+    Learning : {    
+        misc: [ "deep learning","open-cv", "php"]
     };
    ```
 
