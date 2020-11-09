@@ -21,8 +21,8 @@ const viswa = {
     code: ["Python", "Matlab","C++", "HTML", "php"],
     askMeAbout: ["FEM", "Machine learning", "photography"],
     technologies: {
-            Modelling : ["ABAQUS","Solidworks","Catia" ]
-            Simulation :["Ansys"]
+            Modelling : ["ABAQUS","Solidworks","Catia" ],
+            Simulation :["Ansys"],
             Meshing: ["Hypermesh"]
         },
 
