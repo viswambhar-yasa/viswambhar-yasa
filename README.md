@@ -18,35 +18,26 @@ I'm [Viswambhar Yasa](https://github.com/viswambhar-yasa) pursuing masters in `C
 ```javascript
 const viswa = {
     pronouns: "He" | "Him",
-    code: ["Python", "Matlab","Javascript", "HTML", "php"],
-    askMeAbout: ["web dev", "Machine learning", "app dev", "photography"],
+    code: ["Python", "Matlab","C++", "HTML", "php"],
+    askMeAbout: ["FEM", "Machine learning", "photography"],
     technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "bootstrap"]
+            Modelling : ["ABAQUS","Solidworks","Catia" ]
+            Simulation :["Ansys"]
+            Meshing: ["Hypermesh"]
         },
-        backEnd: {
-            js: ["node", "SuiteScript"],
-            python: ["flask"]
+
         },
-        devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["selenium", "open-cv", "php"]
+        misc: [ "open-cv", "php"]
     };
    ```
 
 
 ### Languages and Tools :eye_speech_bubble: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
