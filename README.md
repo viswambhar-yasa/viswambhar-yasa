@@ -11,7 +11,7 @@ I'm [Viswambhar Yasa](https://github.com/viswambhar-yasa) pursuing masters in `C
 
 
 
-- 🔭 I’m currently working on Sterographic projection.
+- 🔭 I’m currently working on Isogeometric topology optimization.
 - 🌱 I’m currently learning deep learning.
 - ⚡ Fun fact: The first person to use the term `bug` was Thomas Edison - and it was a real bug!
 
