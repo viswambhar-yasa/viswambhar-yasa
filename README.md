@@ -17,19 +17,20 @@ I'm [Viswambhar Yasa](https://github.com/viswambhar-yasa) pursuing masters in `C
 ```javascript
 const viswa = {
     pronouns: "He" | "Him",
-    code: ["Python", "Matlab","C++", "HTML", "php"],
-    askMeAbout: ["FEM", "Machine learning", "photography"],
+    code: ["Python","R","Matlab","C++", "HTML","SQL"],
+    askMeAbout: ["FEM", "Machine learning", "photography","deep learning","open-cv"],
     technologies: {
-            Modelling : ["ABAQUS","Solidworks","Catia" ],
+            Data migration: ["Apache HIVE"]
+            ETL Tool: ["Informatica"]
+            Modelling : ["ABAQUS"],
             Simulation :["Ansys"],
-            Meshing: ["Hypermesh"]
         },
 
     Others: {
         databases: ["mongo", "MySql", "sqlite"]
         },
     Learning : {    
-        misc: [ "deep learning","open-cv", "php"]
+        misc: [ "AWS","Dockers", "php"]
     };
    ```
 
