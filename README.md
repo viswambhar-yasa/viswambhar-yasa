@@ -5,9 +5,7 @@
 
 Guten Tag :sunglasses: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=viswambhar-yasa.visitor-badge)
 
-<img align="right" src="https://github.com/viswambhar-yasa/Viswambhar-yasa/raw/master/R.gif"  width="350" height="200"/>
-
-I'm [Viswambhar Yasa](https://github.com/viswambhar-yasa) pursuing masters in `Computational Material Science` from `Technical University Freiberg`. I did my bachelor in Mechanical Engineering from `GRIET- Hyderabad`. I have work experience in `TATA` Consultancy Services (`TCS`). As a software enthusiast, i want the open-source softwares to be more accessible to people. 
+I'm [Viswambhar Yasa](https://www.linkedin.com/in/viswambhar-reddy-yasa-2ab5051aa/) pursuing masters in `Computational Material Science` from `Technical University Freiberg`. I did my bachelor in Mechanical Engineering from `GRIET- Hyderabad`. I have work experience in `TATA` Consultancy Services (`TCS`). As a software enthusiast, i want the open-source softwares to be more accessible to people. 
 
 
 
